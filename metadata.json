@@ -1,0 +1,7 @@
+{
+  "name": "Flowerhub - Premium Floral Boutique",
+  "description": "A luxury virtual floral boutique featuring AI-powered garland try-ons.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
